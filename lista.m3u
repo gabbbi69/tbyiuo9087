@@ -1,15 +1,55 @@
 #EXTM3U
 #EXTINF:-1, exitosa
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+#EXTINF:-1, latina
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/4_.m3u8?token=L2hKUmR0GW-TAnhSYc8H_A&expires=1664678571
+#EXTINF:-1, atv
+https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1, america tv
 https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/5_.m3u8?token=lOvw_sDmqG6YdyxG1SwEMw&expires=1664673052
 #EXTINF:-1, panamericana
 https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=eEd4sIYqNTEZ9Suy_hnpOFIi18lsekz3e0ncQC8NqRlX-er6F4W0TTAZXm_yeqen1NLhWz1Ba0SFAkkEyeTiBQ&dmTs=757402&dmV1st=0EBE6A5B269F54D59C31ECEE23661B9A
-#EXTINF:-1, atv
-https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
+#EXTINF:-1, Canal N
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/197_.m3u8?token=ti28Gktdn4geIohARGK-xQ&expires=1664679749
 #EXTINF:-1, atv+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1, willax
 https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/153_.m3u8?token=_fg-Q3pTu2flzp92mjJGvg&expires=1664673351
 #EXTINF:-1, nuevo tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1, movistar Deportes
+https://live.tvplusgratis.com:8080/MTkwLjQyLjE2LjYw/19_.m3u8?token=cfgQ83yPoh0AGYsDytoVUw&expires=1664680066
+#EXTINF:-1, movistar liga de campeones
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/282_.m3u8?token=dYNI-pD3uiaWMvn--BwKwA&expires=1664679899
+#EXTINF:-1, golperu
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/6_.m3u8?token=CsNEXGL4-cPsCNTgj4sK8A&expires=1664678720
+#EXTINF:-1, espn
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/17_.m3u8?token=17AMXWKG0G8XiZRmbQJbLw&expires=1664678889
+#EXTINF:-1, Directv sports
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/20_.m3u8?token=rFRrsWvlPabHIIPOEgIwMw&expires=1664678959
+#EXTINF:-1, Canal 5 mexico
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/2_.m3u8?token=OcVqyZPRURUpJ8r2LEIZSQ&expires=1664679051
+#EXTINF:-1, Cinecanal
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/44_.m3u8?token=X2ubNZWnqcVnsvfLnaiJKg&expires=1664679101
+#EXTINF:-1, Cinemax
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/43_.m3u8?token=ZQKUrouaZbv82sfYvifmkQ&expires=1664679151
+#EXTINF:-1, Universal chanel
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/79_.m3u8?token=PVuO5969I5hcB3yZ0k_zpw&expires=1664679213
+#EXTINF:-1, AMC
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/82_.m3u8?token=DYjEzpj89wHKoQGts_xF-g&expires=1664679272
+#EXTINF:-1, Discovery channel
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/95_.m3u8?token=SVqfxR4IiCMU36DQGrITMQ&expires=1664679312
+#EXTINF:-1, Investigation Discovery
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/98_.m3u8?token=SDaAdjX1Ql_UA-sGfbEjwg&expires=1664679402
+#EXTINF:-1, History
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/49_.m3u8?token=vM5faEKTdzbKJnruJIjHQw&expires=1664679450
+#EXTINF:-1, Peliculas 24/7
+https://usher.ttvnw.net/api/channel/hls/cinemundo_plus.m3u8?allow_source=true&fast_bread=true&p=2967469&play_session_id=4c4331f655079adb2ce39cca526af297&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=41da248fb35a1057bd50edba3d13583e2155917f&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cinemundo_plus%22%2C%22channel_id%22%3A823210621%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22aJZYWwmE3gCLldRg0yHBJGbg2iZcUAaK%22%2C%22expires%22%3A1664667283%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site_mini%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.42.16.60%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.14.0
+#EXTINF:-1, El chavo 24/7
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/150_.m3u8?token=elHEtchzngyl72JFepD62A&expires=1664679499
+#EXTINF:-1, Terror 24/7
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/196_.m3u8?token=Ija4Of8y3jzeZJ3XiCCxMA&expires=1664679554
+#EXTINF:-1, Malcom de en medio 24/7
+https://usher.ttvnw.net/api/channel/hls/malcolmtv_02.m3u8?allow_source=true&fast_bread=true&p=882007&play_session_id=1e3a329965b7f324c118ebfe413a682e&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=a053da9a5c6f7df0c407a9db169798514be40e87&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22malcolmtv_02%22%2C%22channel_id%22%3A828222672%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22aJZYWwmE3gCLldRg0yHBJGbg2iZcUAaK%22%2C%22expires%22%3A1664667037%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22channel_home_carousel%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.42.16.60%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.14.0
+#EXTINF:-1, Star chanel
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/42_.m3u8?token=Vlc5A87NVbg9MGuAXR_2xA&expires=1664679687
