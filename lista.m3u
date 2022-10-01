@@ -10,6 +10,6 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1, atv+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1, willax
-https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0YuhXxliVkkzKaY5q5VD7o1Xp5fOO1JbWLefGszObi-ibiXij4HiejMLfUHen1ruzg&dmTs=150825&dmV1st=B2334470A95956FA4877AA7AC8BF5A04
+https://live.telelatinohd.com:8080/MTkwLjQyLjE2LjYw/153_.m3u8?token=_fg-Q3pTu2flzp92mjJGvg&expires=1664673351
 #EXTINF:-1, nuevo tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
